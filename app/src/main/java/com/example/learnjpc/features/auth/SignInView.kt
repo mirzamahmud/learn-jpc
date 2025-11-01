@@ -1,4 +1,4 @@
-package com.example.learnjpc.features
+package com.example.learnjpc.features.auth
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
